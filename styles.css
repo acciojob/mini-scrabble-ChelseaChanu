@@ -1,2 +1,8 @@
+#evaluatedText{
+	border-radius: 3px;
+}
 
-/* Your CSS Code here. */
+#evaluatedText:focus{
+	border: none;
+	outline: 2px solid blue;
+}
